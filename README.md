@@ -117,3 +117,5 @@ Ce projet est sous licence MIT – voir le fichier [LICENSE](LICENSE) pour plus 
 ## 🙏 Remerciements
 
 Projet développé à **Esprit School of Engineering** dans le cadre du module *Technologies Web* 2024–2025.
+Devlopper par : safwen bechaouech , yahya ghzail, sarra laabidi
+Encadree par : mohamed ali charefdine
